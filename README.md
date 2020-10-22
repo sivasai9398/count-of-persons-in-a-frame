@@ -15,4 +15,4 @@ git clone https://github.com/sivasai9398/count-of-persons-in-a-frame.git
 ```
 ping me using :point_right:
 <a href="https://linkedin.com/in/siva-sai-0a5605197" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sivasai" height="30" width="30" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sivasai" height="30" width="30"/></a>
+<a href="https://instagram.com/sivasai22164" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sivasai" height="30" width="30"/></a>
